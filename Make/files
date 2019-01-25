@@ -1,0 +1,3 @@
+simpleTwoTemperaturesDispersionAxiSymmetricFoam.C
+
+EXE = $(FOAM_APPBIN)/simpleTwoTemperaturesDispersionAxiSymmetricFoam
